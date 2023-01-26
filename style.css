@@ -1,0 +1,56 @@
+
+
+.container{
+    width: 1000px;
+    height: 600px;
+    margin-left: 250px;
+    margin-top: 50px;
+    border-style:groove;
+    text-align: center;
+    background-image: url(../cat4.png);
+    background-size: cover;
+    background-position: center;
+}
+h5{
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: 500px;
+
+}
+.info{
+    
+    width: 1000px;
+    margin-left: 50px;
+}
+
+
+.cat1 {
+    float: left;
+    width: 300px;
+    height: 150px;
+    margin-top: 130px;
+
+}
+.cat2{
+    float: left;
+    width: 300px;
+    height: 50px;
+
+
+}
+.cat3{
+    float: left;
+    width: 300px;
+    height: 90px;
+    margin-top: 117px;
+
+}
+.link{
+    float: right;
+    width: 200px;
+    margin-top: 370px;
+    color: red;
+}
